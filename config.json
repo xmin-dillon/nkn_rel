@@ -1,4 +1,5 @@
 ﻿{
+  "NAT": false,
   "BeneficiaryAddr": "",
   "SeedList": [
     "http://mainnet-seed-0001.nkn.org:30003",
