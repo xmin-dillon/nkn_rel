@@ -1,0 +1,7 @@
+2022/01/01 21:26:27 Set SyncHeaderMaxSize to 390825
+2022/01/01 21:26:27 Set SyncBatchWindowSize to 486
+2022/01/01 21:26:27 Set TxPoolMaxMemorySize to 31
+2022/01/01 21:26:27.047052 [0;32m[INFO ][m GID 1, Discovering NAT gateway...
+2022/01/01 21:26:50.039362 [0;32m[INFO ][m GID 1, No NAT gateway discovered, skip automatic port forwading. You need to set up port forwarding and firewall yourself.
+2022/01/01 21:26:50.039785 [0;32m[INFO ][m GID 1, Node version: v2.1.7
+Password:2022/01/01 21:26:50.039919 [0;31m[ERROR][m GID 1, get password error: read /dev/stdin: bad file descriptor

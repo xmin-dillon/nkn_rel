@@ -1,0 +1,43 @@
+{
+  "name": "nkn-web",
+  "version": "0.0.0",
+  "description": "nkn-web",
+  "author": "heron",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "crypto-js": "^3.3.0",
+    "decimal.js": "^10.2.0",
+    "lodash": "^4.17.21",
+    "nuxt": "^2.13.3",
+    "nuxt-i18n": "^6.13.1",
+    "vue-clipboard2": "^0.3.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@mdi/font": "^5.3.45",
+    "@vue/test-utils": "^1.0.3",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^26.1.0",
+    "jest": "^24.9.0",
+    "material-design-icons-iconfont": "^5.0.1",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "sass-loader": "^9.0.1",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-jest": "^3.0.6"
+  }
+}
